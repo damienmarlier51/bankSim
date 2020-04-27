@@ -44,7 +44,7 @@ setup.py -> Use to install current package
 
 ## 2) Quickstart
 
-Before anything else, you must download the dataset ```bs140513_032310.csv``` from Kaggle and paste it into ```data/raw``` folder.
+Before anything else, you must download the dataset ```bs140513_032310.csv``` from Kaggle and paste it into ```data/raw``` folder.<br/>
 If you would like to get started ASAP, run these make commands in the following order:<br/>
 ```make venv``` --> Set-up python virtual environment<br/>
 ```make features``` --> Generate features<br/>
