@@ -1,0 +1,1 @@
+{"name": "opt_xgb", "clf": "XGBClassifier", "params": {"booster": "gbtree", "class_weight": "balanced", "colsample_bytree": 0.8500000000000001, "eta": 0.23, "eval_metric": "auc", "gamma": 0.52, "job": -1, "max_depth": 1, "min_child_weight": 2.0, "n_estimators": 58.0, "objective": "binary:logistic", "seed": 0, "silent": 1, "subsample": 0.18, "tree_method": "exact"}}

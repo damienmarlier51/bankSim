@@ -1,0 +1,12 @@
+pandas
+pandasql
+seaborn
+sklearn
+xgboost
+hyperopt
+click
+shap
+jupyter
+lifetimes
+hiplot
+ppscore
