@@ -6,10 +6,10 @@ For this challenge, I covered the following steps:
 
  - EDA
  - Training a XGB model to predict Gender
- - Tune Hyperparameters of XGB model
+ - Hyperparameter tuning of XGB model
  - Training a Random Forest model to predict Gender
- - Tune Hyperparameters of Random Forest model
- - Implementing CLV model to predict customer long-term values
+ - Hyperparameter tuning of Random Forest model
+ - CLV model implementation for customer long-term values estimation
 
 ## 1) Repository structure
 
@@ -44,6 +44,7 @@ setup.py -> Use to install current package
 
 ## 2) Quickstart
 
+Before anything else, you must download the dataset ```bs140513_032310.csv``` from Kaggle and paste it into ```data/raw``` folder.
 If you would like to get started ASAP, run these make commands in the following order:<br/>
 ```make venv``` --> Set-up python virtual environment<br/>
 ```make features``` --> Generate features<br/>
