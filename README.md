@@ -9,6 +9,7 @@ For this challenge, I covered the following steps:
  - Hyperparameter tuning of XGB model
  - Training a Random Forest model to predict Gender
  - Hyperparameter tuning of Random Forest model
+ - Model assessment
  - CLV model implementation for customer long-term values estimation
 
 ## 1) Repository structure
